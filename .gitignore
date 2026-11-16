@@ -1,0 +1,28 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# Training data
+source.txt
+rumi_english.txt
+vocab.json
+
+# Model checkpoints
+checkpoints/
+*.pt
+*.pth
+
+# Secrets
+.env
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
